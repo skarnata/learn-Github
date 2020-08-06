@@ -1,5 +1,0 @@
-Data yang kita tulis di file contoh.txt dengan perincian dibawah ini:
-- file ini digunakan untuk mentrack perubahan yang ada via Github
-- untuk tahap awal kita akhiri sampai disini dulu
-- supaya bisa di-track oleh Github
-- pembuatan vlog
