@@ -2,3 +2,6 @@ Ini adalah file Primary-utama.txt yang dibuat pertama kali dengan berisi 3 nama 
 1. c#
 2. c++
 3. Perl
+4. Python
+5. HTML
+6. CSS
