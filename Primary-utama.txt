@@ -7,3 +7,5 @@ Ini adalah file Primary-utama.txt yang dibuat pertama kali dengan berisi 3 nama 
 7. Django
 8. Node.js
 9. MVC (penambahan dari branch-satu)
+10. Angular JS
+11. Flask
