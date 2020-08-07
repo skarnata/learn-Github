@@ -9,3 +9,6 @@ Ini adalah file Primary-utama.txt yang dibuat pertama kali dengan berisi 3 nama 
 9. MVC (penambahan dari branch-satu)
 10. Angular JS
 11. Flask
+12. Matplotlib
+13. Pandas
+14. Tensorflow
