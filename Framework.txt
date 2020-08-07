@@ -1,0 +1,4 @@
+Ini merupakan file tambahan pada repository account kloudval yang berisi data framework seperti dibawah ini:
+1. Entity Framework
+2. Django
+3. Angular JS
