@@ -11,3 +11,7 @@ Ini adalah file Primary-utama.txt yang dibuat pertama kali dengan berisi 3 nama 
 10. Pandas
 11. Tensorflow
 12. Entity Framework
+13. C++
+14. Perl
+15. Fortran
+16. Visual Basic
